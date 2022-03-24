@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Ivan\Desktop\Seavus\C#\Homeworks\C-H4\Homework Class 04\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
